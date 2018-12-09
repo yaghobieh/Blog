@@ -48,8 +48,4 @@ npm start
 
 ## Authors
 
-* **Antonio Erdeljac** - *Initial work* - [Blog-Tutorial](https://github.com/AntonioErdeljac/Blog-Tutorial)
-
-## Acknowledgments
-
-* This was a tutorial for my [Medium article](https://medium.com/@_aerdeljac/learn-how-to-create-a-simple-blog-with-react-node-c05fa6889de3)
+* **John Yaghobieh Jfalcon** - *Initial work* - [Jfalcon](https://Jfalcon.click)
